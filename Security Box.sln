@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security Box", "Security Box\Security Box.csproj", "{CA4C442C-96F5-4CBF-B6E0-5AC54E29190C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4C442C-96F5-4CBF-B6E0-5AC54E29190C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4C442C-96F5-4CBF-B6E0-5AC54E29190C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4C442C-96F5-4CBF-B6E0-5AC54E29190C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4C442C-96F5-4CBF-B6E0-5AC54E29190C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0508D7C0-1BA2-4B76-9869-145D303ED11F}
+	EndGlobalSection
+EndGlobal
